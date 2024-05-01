@@ -1,7 +1,7 @@
 import React from "react";
 import { HiOutlineMail } from "react-icons/hi";
-import { FaDownload, FaLinkedinIn, FaReact, FaNodeJs } from "react-icons/fa";
-import { SiExpress, SiMongodb } from "react-icons/si";
+import { FaDownload, FaLinkedinIn,} from "react-icons/fa";
+
 import { BsGithub } from "react-icons/bs";
 
 const Media = () => {
@@ -40,18 +40,7 @@ const Media = () => {
             <span>RESUME</span>
             <FaDownload />
           </a>
-          {/* <span className="bannerIcon">
-            <FaReact />
-          </span>
-          <span className="bannerIcon">
-            <FaNodeJs />
-          </span>
-          <span className="bannerIcon">
-            <SiExpress />
-          </span>
-          <span className="bannerIcon">
-            <SiMongodb />
-          </span> */}
+         
         </div>
       </div>
     </div>

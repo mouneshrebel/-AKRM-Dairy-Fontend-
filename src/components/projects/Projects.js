@@ -104,7 +104,7 @@ const Projects = () => {
         </a>
 
         <a
-          href=" https://app.netlify.com/sites/magnificent-mooncake-eda188/overview"
+          href=" https://magnificent-mooncake-eda188.netlify.app/ "
           target="_blank"
           rel="noreferrer"
         >
@@ -134,7 +134,7 @@ const Projects = () => {
             }
             Live={
               <a
-                href=" https://app.netlify.com/sites/magnificent-mooncake-eda188/overview "
+                href=" https://magnificent-mooncake-eda188.netlify.app/ "
                 className="border-b-black hover:text-designColor bannerIcon w-40 h-11"
                 target="_blank"
               >
@@ -146,7 +146,7 @@ const Projects = () => {
         </a>
 
         <a
-          href="https://fooddelights.netlify.app/"
+          href=" https://main--timely-maamoul-674765.netlify.app/"
           target="_blank"
           rel="noreferrer "
         >
@@ -156,7 +156,7 @@ const Projects = () => {
             src={food}
             button={
               <a
-                href=" https://github.com/Surya-MERNstack/fooddelightclient"
+                href=" https://github.com/mouneshrebel/food-app-frontend"
                 className="border-b-black hover:text-designColor bannerIcon w-40 h-11"
                 target="_blank"
               >
@@ -166,7 +166,7 @@ const Projects = () => {
             }
             buttons={
               <a
-                href=" https://github.com/Surya-MERNstack/fooddelightserver"
+                href=" https://github.com/mouneshrebel/food-app-backend"
                 className="border-b-black hover:text-designColor bannerIcon w-40 h-11"
                 target="_blank"
               >
@@ -176,7 +176,7 @@ const Projects = () => {
             }
             Live={
               <a
-                href=" https://fooddelights.netlify.app/"
+                href=" https://main--timely-maamoul-674765.netlify.app/"
                 className="border-b-black hover:text-designColor bannerIcon w-40 h-11"
                 target="_blank"
               >

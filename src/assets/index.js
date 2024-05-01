@@ -8,13 +8,13 @@ import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
 import amazon from './images/amazon .png'
 import arkm from './images/ARKM Dairy.png'
-
-
 import ecom from './images/E-Commerce..jpeg'
 import mounilogo from './images/rebel.jpg'
 import diaryapp from './images/Diary Manager.png'
-
 import mouni from './images/mouni.jpg'
+
+
+
 export {
   logo,
   mounilogo,
